@@ -1,2 +1,2 @@
 # leetcode
-El Capitan
+This is a placeholder.
